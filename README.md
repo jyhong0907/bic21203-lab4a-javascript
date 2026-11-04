@@ -42,7 +42,6 @@ The validation message will appear below the input field.
 Test with 5, 10, 15, abc and an empty input.
 output:
 <img width="677" height="247" alt="image" src="https://github.com/user-attachments/assets/498845f2-6743-4e44-8762-44aa742dfbce" />
-<img width="720" height="212" alt="image" src="https://github.com/user-attachments/assets/7ebe99d4-cf33-4ab9-9978-8a97db93fe84" />
 
 ## Question 3 – Dynamic Number Generator
 Open Q3/index.html in your browser.
